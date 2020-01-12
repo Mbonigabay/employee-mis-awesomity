@@ -9,6 +9,13 @@
 * 	[git](https://git-scm.com/) - Free and Open-Source distributed version control system in, with one annotation your class has a fully featured builder, Automate your logging variables, and much more.
 * 	[Postman](https://www.getpostman.com/) - Open-Source software framework backed by a large ecosystem of tools that helps developers design, build, document, and consume RESTful Web services.
 
+## Requirements
+
+For building and running the application you need:
+
+- [JDK 11.0.5](http://www.oracle.com/technetwork/java/javase/downloads/jdk8-downloads-2133151.html)
+- [Maven 3.6.0](https://maven.apache.org)
+
 ## Running the application locally
 
 There are several ways to run a Spring Boot application on your local machine. One way is to execute the `main` method in the `com.arc.sbtest.SBtemplateApplication` class from your IDE.
